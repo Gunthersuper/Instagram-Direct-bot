@@ -1,8 +1,6 @@
 # Instagram-Direct-bot
 A simple pyhon instagram direct bot
 
-This is a simple instragram direct message bot. 
-
 Installing:
 1. Download and insatll python
 2. Install the `selenuim` package: `pip install selenium` in console
