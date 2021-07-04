@@ -2,9 +2,10 @@
 A simple pyhon instagram direct bot
 
 Installing:
-1. Download and insatll python
+1. Download and install python
 2. Install the `selenuim` package: `pip install selenium` in console
 3. Download the chromedriver correspond to your chrome version
+4. Download `direct_bot.py` from here.
 
 If you want to use it make your confuguration in the `direct_bot.py`:
 1. Enter your username and password
